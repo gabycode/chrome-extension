@@ -24,6 +24,11 @@ button {
 #delete-btn {
   background: white;
   color: #5f9341;
+  transition: 0.3s;
+}
+
+#delete-btn:hover {
+  background-color: #ebebeb;
 }
 
 ul {
